@@ -1,0 +1,23 @@
+{
+  "name": "pagination-exercise",
+  "version": "1.0.0",
+  "description": "pagination test using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhano/pagination-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhano/pagination-exercise/issues"
+  },
+  "homepage": "https://github.com/muhano/pagination-exercise#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
